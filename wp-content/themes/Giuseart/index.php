@@ -94,7 +94,6 @@ if(!empty($slider)){
                 }
             endif;
             ?><br>
-<img src="http://shopconggiao.com/wp-content/uploads/2017/04/banner2.jpg"/>
         </div><!-- .content-right -->
     </div><!-- #primary -->
 
