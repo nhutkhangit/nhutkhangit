@@ -3,7 +3,7 @@
 # than the current time-stamp on the file system then another resource has updated this file.
 # Duplicator only writes to this file once during the install process while running the installer.php file.
 
-# BEGIN WordPress
+# BEGIN WordPresss
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /nhutkhangit/
